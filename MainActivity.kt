@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
                     in 70 .. 79 -> "Luis Vuitton"
                     in 80 .. 89 -> "Anne Francis"
                     in 90 .. 95 -> "Pablo Picasso"
-                    in 96 .. 100 -> "Grim Natwick"
+                    in 96 .. 100 -> "Dave Bartholomew"
                     else -> "Incorrect"
                 }
                 //Results shown after you enter age
@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
                         "Luis Vuitton" -> "You are in the same age range as Kuis Vuitton, who passed away at age 70"
                         "Anne Francis" -> "You are in the same age range as Anne Francis, who passed away at age 80"
                         "Pablo Picasso" -> "You are in the same age range as Pablo Picasso, who passed away at age 91"
-                        "Grim Natwick" -> "You are in the same age range as Grim Watwick, who passed away at age 100"
+                        "Dave Bartholomew" -> "You are in the same age range as Dave Bartholomew, who passed away at age 100"
                         else -> "You are out of bound. Please Enter Valid Age Number"
                     }
                 }"
